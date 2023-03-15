@@ -1,3 +1,7 @@
+![](assets/data.png)
+
+---
+
 1. [Introduction to Python](./docs/1.Introduction-to-Python/)
 2. [Intermediate Python](./docs/2.Intermediate-Python/)
 3. ###### PROJECT [![](assets/link.svg)](./docs/3.Project/)
