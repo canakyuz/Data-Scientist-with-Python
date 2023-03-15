@@ -1,4 +1,4 @@
-![](assets/data.png)
+![](assets/banner-data.png)
 
 ---
 
