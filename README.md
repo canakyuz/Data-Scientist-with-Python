@@ -15,7 +15,7 @@
     **The GitHub History of the Scala Language**
     > Find the true Scala experts by exploring its development history in Git and GitHub.
 8. [Introduction to Data Visualization with Matplotlib](./docs/8.Introduction-to-Data-Visualization-with-Matplotlib/)
-9. [Introduction to Data Visualization with Seaborn](./docs/9.Introduction-to-Data-Visualization-with-Seaborn/)
+9.  [Introduction to Data Visualization with Seaborn](./docs/9.Introduction-to-Data-Visualization-with-Seaborn/)
 10. [Introduction to NumPy](./docs/10.Introduction-to-NumPy/)
 11. [Python Data Science Toolbox (Part 1)](./docs/11.Python-Data-Science-Toolbox-Part1/)
 12. ###### PROJECT [![](assets/link.svg)](./docs/12.Project/)
