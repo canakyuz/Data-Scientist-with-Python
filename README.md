@@ -2,7 +2,7 @@
 
 ---
 
-1. [Introduction to Python](./docs/1.Introduction-to-Python/)
+1. [Introduction to Python](./docs/1.Introduction_to_Python/readme.md)
 2. [Intermediate Python](./docs/2.Intermediate-Python/)
 3. ###### PROJECT [![](assets/link.svg)](./docs/3.Project/)
    **Investigating Netflix Movies and Guest Stars in The Office**
